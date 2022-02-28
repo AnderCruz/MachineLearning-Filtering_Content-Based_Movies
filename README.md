@@ -1,2 +1,12 @@
-# MachineLearning-Filtering_Content-Based_Movies
-Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user. These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. In this notebook, we will explore Content-based recommendation systems and implement a simple version of one using Python and the Pandas library.
+<center>
+    <img src="https://fael.edu.br/upload/cursos/interna/data-science-02-12-06-20-031446.png"  />
+</center>
+
+# Machine Learning: Filtering Content-Based Movies
+
+Anderson Cruz | London-UK | 
+<a href="https://www.linkedin.com/in/anderjcruz/" target="_blank">Linkedin</a> | 
+<a href="https://nowacapital.com" target="_blank">Nowa Capital</a>
+
+#### Project: Movies 
+Create a recommendation system using Content Based filtering
